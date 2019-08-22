@@ -17,4 +17,7 @@ type 'python manage.py runserver'
 
 type 'python manage.py startapp polls'
 
-python manage.py migrate
+(models file edited)
+type 'python manage.py makemigrations polls'
+type 'python manage.py migrate'
+type 'python manage.py shell' (now you can do python code here)
