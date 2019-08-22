@@ -1,0 +1,20 @@
+neospherepython.slack.com
+
+Linux/Gitbash (ignore single quotation)
+
+type 'python -m venv venv'
+type 'cd DjangoEnv'
+type 'source venv/Scripts/activate'
+
+type 'python -m django --version'
+
+type 'django-admin startproject mysite'
+
+type 'cd mysite'
+type 'code .' (vscode will run)
+
+type 'python manage.py runserver'
+
+type 'python manage.py startapp polls'
+
+python manage.py migrate
