@@ -4,7 +4,9 @@ http://book.pythontips.com/en/latest/
 
 https://github.com/therj (Rabindra Joshi)
 
-Github
+http://gitignore.io/ (type 'Django' and save file as .gitignore
+
+Github 
 git config user.name "Saurav"
 git config user.email "sauravpradhananga11101@gmail.com"
 
