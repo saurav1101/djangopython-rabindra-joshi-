@@ -1,4 +1,12 @@
 neospherepython.slack.com
+http://book.pythontips.com/en/latest/
+
+
+https://github.com/therj (Rabindra Joshi)
+
+Github
+git config user.name "Saurav"
+git config user.email "sauravpradhananga11101@gmail.com"
 
 Linux/Gitbash (ignore single quotation)
 
@@ -21,3 +29,13 @@ type 'python manage.py startapp polls'
 type 'python manage.py makemigrations polls'
 type 'python manage.py migrate'
 type 'python manage.py shell' (now you can do python code here)
+
+
+Install Djaneiro - Django Snippets in VS Code
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+Informational responses (100–199),
+Successful responses (200–299),
+Redirects (300–399),
+Client errors (400–499),
+and Server errors (500–599).
