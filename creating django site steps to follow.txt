@@ -1,0 +1,22 @@
+Django Site:
+
+1. Virtual env -> Django framework
+2. Create Project
+3. Create app
+4. Url -> Route and View
+5. View -> HttpResponse
+6. Render Template from View
+7. Migrate 
+8. Create SuperUser
+9. Define Models
+10. Decalre Namsepace -> Update Views & Template (app name: polls)
+11. Generic Views, if necessary!
+12. Change Model -> Make & Migrate
+13. Update Views, Templates
+14. requirements.txt (install only which is required for you) 
+
+pip freeze
+type 'pip freeze > requirements.txt'
+type 'pip install -r requirements.txt'
+
+Search for Git Cheatsheet (ndpsoftware.com/git-cheatsheet.html...)

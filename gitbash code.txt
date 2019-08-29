@@ -41,3 +41,9 @@ Successful responses (200–299),
 Redirects (300–399),
 Client errors (400–499),
 and Server errors (500–599).
+
+
+Deploy Django using Heroku 
+
+Install Heroku CLI (Git is required)
+Heroku - wsgi and gunicorn(deploy)
