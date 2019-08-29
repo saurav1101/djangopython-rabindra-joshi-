@@ -15,7 +15,7 @@ Django Site:
 13. Update Views, Templates
 14. requirements.txt (install only which is required for you) 
 
-pip freeze
+pip freeze (in mysite folder)
 type 'pip freeze > requirements.txt'
 type 'pip install -r requirements.txt'
 
